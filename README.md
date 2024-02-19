@@ -22,4 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arda-bayarer&show_icons=true&locale=en" alt="arda-bayarer" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arda-bayarer&" alt="arda-bayarer" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arda-bayarer&theme=dark" alt="arda-bayarer" /></p>
