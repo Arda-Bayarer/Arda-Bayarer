@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Analyzing, Python, Sql, Postgresql, SQLite**
 
-- 📫 How to reach me **ardabayarer07@gmail.com**
+- 📫 How to reach me **ardabayarer07@gmail.com ardabayarer07@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
